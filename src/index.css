@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* This will remove the scrollbar of overflowing divs */
+::-webkit-scrollbar {
+    display: none;
+}
